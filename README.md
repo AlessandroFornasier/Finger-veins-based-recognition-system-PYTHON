@@ -1,1 +1,1 @@
-# Finger-veins-based-recognition-system-PYTHON
+# Finger-veins-based-recognition-system
